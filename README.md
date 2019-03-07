@@ -29,7 +29,7 @@ seaborn==0.9.0
 pathlib==1.0.1
 mlxtend==0.13.0
 
-mlstend Installation: http://rasbt.github.io/mlxtend/installation/
+mlxtend Installation: http://rasbt.github.io/mlxtend/installation/
 
 
 ## Running the Models (Start with 3 of 5)
