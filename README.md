@@ -1,4 +1,4 @@
-# Scott Smith Capstone Propsal
+# Scott Smith Capstone Project
 # Machine Learning Engineer Nanodegree
 # Loan Defaults Using Lending Club Data
 
